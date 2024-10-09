@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    테스트를 위한 사이트
+    <title>테스트를 위한 사이트</title>
 </head>
 <body style="color: #99ccff" >
 <p style="color: blue;" size: 20pt>
